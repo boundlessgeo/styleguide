@@ -1,0 +1,4 @@
+styleguide
+==========
+
+OpenGeo Coding Guidelines
