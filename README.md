@@ -1,4 +1,4 @@
 styleguide
 ==========
 
-OpenGeo Coding Guidelines
+Boundless Coding Guidelines
